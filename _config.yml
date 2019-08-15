@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 輕鬆優雅、省時省錢、減塑環保
+app_description                           : 韓粉寶藏圖
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,11 +35,11 @@ github_username                           : ShiungLiu
 features                                  :
 
   - title                                 : 省下時間
-    description                           : 更快速找到洗衣精補充站，將時間留給身邊美好人事物
+    description                           : 快速找到韓粉服務的商家，將時間留給身邊美好人事物
     fontawesome_icon_name                 : coffee
 
   - title                                 : 省下金錢
-    description                           : 一起減塑、重複使用包裝瓶，保護環境及下一代
+    description                           : 說出通關密語享優惠
     fontawesome_icon_name                 : coins
 
   - title                                 : 無需登入
